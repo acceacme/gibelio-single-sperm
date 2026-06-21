@@ -1,0 +1,24 @@
+name: single_sperm_analysis
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.9
+  - perl>=5.26
+  - r-base>=4.2
+  - r-ggplot2
+  - r-dplyr
+  - bioconductor-clusterprofiler
+  - bwa=0.7.17
+  - samtools=1.16
+  - gatk4=4.1.2
+  - hisat2=2.2.1
+  - minimap2
+  - hifiasm
+  - fastp
+  - blast
+  - mosdepth
+  - syri
+  - beagle
+  - vcftools
+  - bedtools
