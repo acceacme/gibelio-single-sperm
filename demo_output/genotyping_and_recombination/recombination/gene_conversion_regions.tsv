@@ -1,0 +1,2 @@
+sample	chrom	start	end	n_snps	observed_haps	expected_hap
+DemoSperm01	ChrDemo1	11000	11800	2	hap2	hap1

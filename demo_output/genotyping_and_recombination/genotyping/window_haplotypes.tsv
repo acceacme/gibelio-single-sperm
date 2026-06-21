@@ -1,0 +1,7 @@
+sample	chrom	window_start	window_end	n_snps	assigned_hap	supporting_snps	status
+DemoSperm01	ChrDemo1	1	10000	10	hap1	10	assigned
+DemoSperm01	ChrDemo1	10001	20000	10	hap1	8	assigned
+DemoSperm01	ChrDemo1	20001	30000	10	hap1	10	assigned
+DemoSperm01	ChrDemo1	30001	40000	10	hap2	10	assigned
+DemoSperm01	ChrDemo1	40001	50000	10	hap2	10	assigned
+DemoSperm01	ChrDemo1	50001	60000	10	hap2	10	assigned

@@ -1,0 +1,2 @@
+/analysis2/00.udata/zhushilin/shining/20260620.单精子文章相关/20260620.单精子文章相关code_and_software_policy/software_submission_package/demo_data/HWM_analysis/depth_inputs/02.S01/04.Stat/chr_depth.tsv
+/analysis2/00.udata/zhushilin/shining/20260620.单精子文章相关/20260620.单精子文章相关code_and_software_policy/software_submission_package/demo_data/HWM_analysis/depth_inputs/02.S02/04.Stat/chr_depth.tsv

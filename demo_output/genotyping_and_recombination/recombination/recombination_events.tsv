@@ -1,0 +1,2 @@
+sample	chrom	left_window_start	left_window_end	left_hap	right_window_start	right_window_end	right_hap	event_type
+DemoSperm01	ChrDemo1	20001	30000	hap1	30001	40000	hap2	haplotype_switch

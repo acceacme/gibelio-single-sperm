@@ -1,0 +1,30 @@
+Target_tissue	O
+Input_file	demo_output/gonad_enriched/tissue_expression_merged.tsv
+Total_genes	6
+Strict_specific	0
+Relaxed_specific	0
+Strict_enriched	2
+Relaxed_enriched	2
+
+Parameters
+pseudo	0.1
+ss_min_expr	2
+ss_fc_othermax	10
+ss_non_target_expr	1
+ss_non_target_n	0
+ss_tau	0.85
+ss_fc_second	5
+rs_min_expr	1
+rs_fc_othermax	5
+rs_non_target_expr	1
+rs_non_target_n	1
+rs_tau	0.75
+rs_fc_second	2
+se_min_expr	1
+se_fc_othermean	2
+se_fc_othermax	1.5
+se_tau	0.40
+re_min_expr	1
+re_fc_othermean	1.5
+re_fc_othermax	1.2
+re_tau	0.30

@@ -1,0 +1,3 @@
+GeneID	Location	Length	T	O	Liver	Brain	Target_tissue	Target_expr	Other_max	Other_mean	Second_highest	Target_is_highest	NonTarget_expr_ge1_count	FC_vs_other_max	FC_vs_other_mean	FC_vs_second_highest	Tau	Tau_group	Strict_specific	Relaxed_specific	Strict_enriched	Relaxed_enriched	Best_category
+GeneO1	chr2:200-450	251	3.500000	71.000000	2.500000	2.000000	O	71.000000	3.500000	2.666667	3.500000	1	3	19.750000	25.698795	19.750000	0.962441	very_high	0	0	1	1	Strict_enriched
+GeneO2	chr2:900-1200	301	2.500000	52.500000	1.500000	1.500000	O	52.500000	2.500000	1.833333	2.500000	1	3	20.230769	27.206897	20.230769	0.965079	very_high	0	0	1	1	Strict_enriched

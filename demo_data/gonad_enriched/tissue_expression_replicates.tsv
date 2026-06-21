@@ -1,0 +1,7 @@
+GeneID	Location	Length	T	T	O	O	Liver	Liver	Brain	Brain
+GeneT1	chr1:100-300	201	80	84	5	4	3	2	2	3
+GeneT2	chr1:500-800	301	45	48	4	3	2	2	2	1
+GeneO1	chr2:200-450	251	3	4	70	72	3	2	2	2
+GeneO2	chr2:900-1200	301	2	3	50	55	2	1	1	2
+GeneM1	chr3:100-400	301	20	18	15	16	12	13	11	12
+GeneLow	chr3:800-900	101	0.5	0.6	0.4	0.5	0.3	0.4	0.5	0.4

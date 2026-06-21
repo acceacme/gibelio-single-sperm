@@ -1,0 +1,1 @@
+GeneID	Location	Length	T	O	Liver	Brain	Target_tissue	Target_expr	Other_max	Other_mean	Second_highest	Target_is_highest	NonTarget_expr_ge1_count	FC_vs_other_max	FC_vs_other_mean	FC_vs_second_highest	Tau	Tau_group	Strict_specific	Relaxed_specific	Strict_enriched	Relaxed_enriched	Best_category
